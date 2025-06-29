@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use MGVT or any part of this work, please cite it as below."
+title: "MGVT - Michele Giordano’s Virtual Teacher"
+authors:
+  - family-names: Giordano
+    given-names: Michele
+    orcid: https://orcid.org/0009-0008-9375-5424
+date-released: 2025-06-11
+version: 0.1.0
+license: GPL-3.0-only
+repository-code: https://github.com/michele-giordano/mgvt
+keywords:
+  - AI
+  - virtual teacher
+  - speech synthesis
+  - educational technology
+  - lipsync
+  - research
