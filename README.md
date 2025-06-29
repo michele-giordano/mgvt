@@ -1,0 +1,36 @@
+# MGVT - Michele Giordano’s Virtual Teacher
+
+This repository hosts the core materials and code developed for the **Bachelor’s thesis**  
+entitled **"Design and Development of an AI-based Virtual Teacher for Education"**,  
+completed by Michele Giordano in 2025 as part of a Bachelor’s Degree in Computer and Software Engineering.
+
+## Overview
+
+MGVT is a modular architecture designed to implement an advanced AI-driven Virtual Teacher,
+combining natural language processing, real-time speech synthesis, and 3D avatar rendering.
+
+This project also led to the creation of several specialized components, including:
+
+- **Live functional demo**: A Unity3D application featuring real-time lipsync and a distributed asynchronous pipeline.
+- **VerbaManent**: A customized fork of Coqui-TTS, restructured for improved modularity, phoneme alignment, and performance on consumer hardware.
+- **RAEF architecture**: A distributed framework based on virtual roles (Writer, Reviewer, Dubber, Courier) to optimize text-to-speech generation in educational scenarios.
+
+## License
+
+This project is released under the **GNU General Public License v3 (GPL-3.0)**,  
+to promote open-source and academic research use.  
+Any proprietary, closed-source, or commercial use requires prior written authorization.
+
+See the [LICENSE](LICENSE) file for complete terms.
+
+For commercial licensing or special agreements, please contact Michele Giordano.
+
+## References and related work
+
+- [VerbaManent repository](https://github.com/michele-giordano/verbamanent)
+- Upcoming publications will further describe the MGVT framework and its potential applications in education and beyond.
+
+---
+
+For questions or collaboration opportunities, please contact:  
+[giordano.michele@gmail.com](mailto:giordano.michele@gmail.com)
