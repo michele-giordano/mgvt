@@ -1,4 +1,5 @@
 # MGVT - Michele Giordano’s Virtual Teacher
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This repository hosts the core materials and code developed for the **Bachelor’s thesis**  
 entitled **"Design and Development of an AI-based Virtual Teacher for Education"**,  
